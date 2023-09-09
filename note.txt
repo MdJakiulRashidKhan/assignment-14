@@ -1,0 +1,3 @@
+https://charming-swan-2a3adf.netlify.app/
+
+it's not working on netlify. but local computer it's ok

@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/pages/registration/page": "app/pages/registration/page.js",
+  "/api/email/route": "app/api/email/route.js",
+  "/pages/login/page": "app/pages/login/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+}
